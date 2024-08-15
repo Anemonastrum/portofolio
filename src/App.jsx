@@ -167,7 +167,7 @@ function App() {
           <img
             src="https://cdn.anemona.cloud/github/avatar.jpeg"
             alt="Profile"
-            className="w-32 h-32 lg:w-48 lg:h-48 rounded-full mb-6 object-cover"
+            className="w-32 h-32 lg:w-48 lg:h-48 rounded-full mb-6 object-cover duration-100 hover:scale-125 hover:shadow-2xl"
           />
           <h1 className="text-4xl lg:text-6xl font-heading font-bold mb-6 text-dark-gray dark:text-light-gray leading-tight">
             Hi, I'm{" "}
@@ -185,31 +185,31 @@ function App() {
             Main Skills:
           </p>
           <div className="flex flex-wrap justify-center gap-3">
-            <span className="px-6 py-3 bg-dark-blue text-white rounded-full font-heading text-lg shadow-lg">
+            <span className="px-6 py-3 bg-dark-blue text-white rounded-full font-heading text-lg shadow-lg duration-100 hover:scale-105 hover:shadow-2xl">
               <FontAwesomeIcon icon={faCode} className="mr-2" />
               JavaScript
             </span>
-            <span className="px-6 py-3 bg-light-blue text-white rounded-full font-heading text-lg shadow-lg">
+            <span className="px-6 py-3 bg-light-blue text-white rounded-full font-heading text-lg shadow-lg duration-100 hover:scale-105 hover:shadow-2xl">
               <FontAwesomeIcon icon={faCode} className="mr-2" />
               Node.js
             </span>
-            <span className="px-6 py-3 bg-dark-blue text-white rounded-full font-heading text-lg shadow-lg">
+            <span className="px-6 py-3 bg-dark-blue text-white rounded-full font-heading text-lg shadow-lg duration-100 hover:scale-105 hover:shadow-2xl">
               <FontAwesomeIcon icon={faCode} className="mr-2" />
               React.js
             </span>
-            <span className="px-6 py-3 bg-light-blue text-white rounded-full font-heading text-lg shadow-lg">
+            <span className="px-6 py-3 bg-light-blue text-white rounded-full font-heading text-lg shadow-lg duration-100 hover:scale-105 hover:shadow-2xl">
               <FontAwesomeIcon icon={faCode} className="mr-2" />
               Express.js
             </span>
-            <span className="px-6 py-3 bg-dark-blue text-white rounded-full font-heading text-lg shadow-lg">
+            <span className="px-6 py-3 bg-dark-blue text-white rounded-full font-heading text-lg shadow-lg duration-100 hover:scale-105 hover:shadow-2xl">
               <FontAwesomeIcon icon={faCode} className="mr-2" />
               Tailwind.css
             </span>
-            <span className="px-6 py-3 bg-light-blue text-white rounded-full font-heading text-lg shadow-lg">
+            <span className="px-6 py-3 bg-light-blue text-white rounded-full font-heading text-lg shadow-lg duration-100 hover:scale-105 hover:shadow-2xl">
               <FontAwesomeIcon icon={faCode} className="mr-2" />
               Linux
             </span>
-            <span className="px-6 py-3 bg-dark-blue text-white rounded-full font-heading text-lg shadow-lg">
+            <span className="px-6 py-3 bg-dark-blue text-white rounded-full font-heading text-lg shadow-lg duration-100 hover:scale-105 hover:shadow-2xl">
               <FontAwesomeIcon icon={faCode} className="mr-2" />
               MongoDB
             </span>
@@ -473,47 +473,47 @@ function App() {
             I have experience in the following technologies too:
           </p>
           <div className="flex flex-wrap justify-center gap-3">
-            <span className="px-6 py-3 bg-dark-blue text-white rounded-full font-heading text-lg shadow-lg">
+            <span className="px-6 py-3 bg-dark-blue text-white rounded-full font-heading text-lg shadow-lg duration-100 hover:scale-105 hover:shadow-2xl">
               <FontAwesomeIcon icon={faCode} className="mr-2" />
               HTML
             </span>
-            <span className="px-6 py-3 bg-light-blue text-white rounded-full font-heading text-lg shadow-lg">
+            <span className="px-6 py-3 bg-light-blue text-white rounded-full font-heading text-lg shadow-lg duration-100 hover:scale-105 hover:shadow-2xl">
               <FontAwesomeIcon icon={faCode} className="mr-2" />
               CSS
             </span>
-            <span className="px-6 py-3 bg-dark-blue text-white rounded-full font-heading text-lg shadow-lg">
+            <span className="px-6 py-3 bg-dark-blue text-white rounded-full font-heading text-lg shadow-lg duration-100 hover:scale-105 hover:shadow-2xl">
               <FontAwesomeIcon icon={faCode} className="mr-2" />
               Bootstrap CSS
             </span>
-            <span className="px-6 py-3 bg-dark-blue text-white rounded-full font-heading text-lg shadow-lg">
+            <span className="px-6 py-3 bg-dark-blue text-white rounded-full font-heading text-lg shadow-lg duration-100 hover:scale-105 hover:shadow-2xl">
               <FontAwesomeIcon icon={faCode} className="mr-2" />
               PHP
             </span>
-            <span className="px-6 py-3 bg-light-blue text-white rounded-full font-heading text-lg shadow-lg">
+            <span className="px-6 py-3 bg-light-blue text-white rounded-full font-heading text-lg shadow-lg duration-100 hover:scale-105 hover:shadow-2xl">
               <FontAwesomeIcon icon={faCode} className="mr-2" />
               Codeigniter
             </span>
-            <span className="px-6 py-3 bg-dark-blue text-white rounded-full font-heading text-lg shadow-lg">
+            <span className="px-6 py-3 bg-dark-blue text-white rounded-full font-heading text-lg shadow-lg duration-100 hover:scale-105 hover:shadow-2xl">
               <FontAwesomeIcon icon={faCode} className="mr-2" />
               Laravel
             </span>
-            <span className="px-6 py-3 bg-light-blue text-white rounded-full font-heading text-lg shadow-lg">
+            <span className="px-6 py-3 bg-light-blue text-white rounded-full font-heading text-lg shadow-lg duration-100 hover:scale-105 hover:shadow-2xl">
               <FontAwesomeIcon icon={faCode} className="mr-2" />
               MariaDB
             </span>
-            <span className="px-6 py-3 bg-dark-blue text-white rounded-full font-heading text-lg shadow-lg">
+            <span className="px-6 py-3 bg-dark-blue text-white rounded-full font-heading text-lg shadow-lg duration-100 hover:scale-105 hover:shadow-2xl">
               <FontAwesomeIcon icon={faCode} className="mr-2" />
               BASH/SHELL
             </span>
-            <span className="px-6 py-3 bg-light-blue text-white rounded-full font-heading text-lg shadow-lg">
+            <span className="px-6 py-3 bg-light-blue text-white rounded-full font-heading text-lg shadow-lg duration-100 hover:scale-105 hover:shadow-2xl">
               <FontAwesomeIcon icon={faCode} className="mr-2" />
               Docker
             </span>
-            <span className="px-6 py-3 bg-dark-blue text-white rounded-full font-heading text-lg shadow-lg">
+            <span className="px-6 py-3 bg-dark-blue text-white rounded-full font-heading text-lg shadow-lg duration-100 hover:scale-105 hover:shadow-2xl">
               <FontAwesomeIcon icon={faCode} className="mr-2" />
               Nginx
             </span>
-            <span className="px-6 py-3 bg-light-blue text-white rounded-full font-heading text-lg shadow-lg">
+            <span className="px-6 py-3 bg-light-blue text-white rounded-full font-heading text-lg shadow-lg duration-100 hover:scale-105 hover:shadow-2xl">
               <FontAwesomeIcon icon={faCode} className="mr-2" />
               GIT
             </span>
