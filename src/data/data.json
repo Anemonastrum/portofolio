@@ -1,0 +1,65 @@
+{
+    "hero": {
+      "profileImage": "https://cdn.anemona.cloud/github/avatar.jpeg",
+      "name": "anemonastrum",
+      "description": "A passionate developer skilled in:",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Tailwind CSS"
+      ]
+    },
+    "skills": {
+      "description": "I have experience in the following technologies:",
+      "list": [
+        "HTML/CSS",
+        "TypeScript",
+        "Next.js"
+      ]
+    },
+    "projects": {
+      "description": "Here are some of the projects I've worked on:",
+      "list": [
+        {
+          "title": "Project 1",
+          "description": "Description of Project 1."
+        },
+        {
+          "title": "Project 2",
+          "description": "Description of Project 2."
+        },
+        {
+          "title": "Project 3",
+          "description": "Description of Project 3."
+        }
+      ]
+    },
+    "social": {
+      "links": [
+        {
+          "platform": "GitHub",
+          "url": "https://github.com/yourusername",
+          "username": "yourusername",
+          "icon": "faGithub"
+        },
+        {
+          "platform": "LinkedIn",
+          "url": "https://linkedin.com/in/yourusername",
+          "username": "yourusername",
+          "icon": "faLinkedin"
+        },
+        {
+          "platform": "Twitter",
+          "url": "https://twitter.com/yourusername",
+          "username": "anemonastrum",
+          "icon": "faTwitter"
+        }
+      ]
+    },
+    "contact": {
+      "description": "I'd love to hear from you! Reach out to me at:",
+      "email": "your.email@example.com"
+    }
+  }
+  
